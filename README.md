@@ -1,4 +1,4 @@
-# Git_Course
-For Elzero Web School Git Course
-
-## Project Notes
+# app
+this is my app
+this is new feature 
+this is else feature
